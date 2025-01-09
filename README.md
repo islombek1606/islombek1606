@@ -5,10 +5,10 @@
 </div>
 
 <div id="badges" id="header" align="center">
-  <a href="https://www.linkedin.com/in/islombekamirovuz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/islombekamirovuz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/invites/contact/? igsh=hripl3fp07uh&utm_content=m305yx7" target="_blank">
+  <a href="https://www.instagram.com/andijonlik_islombek?igsh=eGk0NmhhdGFxZmll" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://t.me/islombekamirov" target="_blank">
