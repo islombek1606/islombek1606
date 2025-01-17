@@ -30,7 +30,7 @@ About Me 👌:
 
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Uzbekistan.
 
-- :man_teachr: I am currently working as a computer science teacher at a school. In my work, I have been studying the fields of Artificial Intelligence and Computer Vision together.
+- :man_teacher: I am currently working as a computer science teacher at a school. In my work, I have been studying the fields of Artificial Intelligence and Computer Vision together.
 - :experience: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on the Robocentec and LetCode platforms. I like to read fiction books and study various articles..
