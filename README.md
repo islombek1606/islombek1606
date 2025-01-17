@@ -30,8 +30,7 @@ About Me 👌:
 
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Uzbekistan.
 
-- :telescope: Now.I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
+- :computer: I am currently working as a computer science teacher at a school. In my work, I have been studying the fields of Artificial Intelligence and Computer Vision together.
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on the Robocentec and LetCode platforms. I like to read fiction books and study various articles..
@@ -54,8 +53,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-### :fire: My Stats :
-
+### :fire: My Stats : "Big changes start with small scripts."
 
 
 
