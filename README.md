@@ -31,13 +31,16 @@ About Me 👌:
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Uzbekistan.
 
 - :man_teacher: I am currently working as a computer science teacher at a school. In my work, I have been studying the fields of Artificial Intelligence and Computer Vision together.
-- :char_with_upwards_trend:
+- :chart_with_upwards_trend:
 - 05.09.2022-07.02.2023 "43rd GENERAL SECONDARY EDUCATION SCHOOL" STATE INSTITUTION computer science teacher.
 - 06.02.2023-01.11.2023 "PRESIDENTIAL SCHOOL IN ANDIJAN" STATE INSTITUTION Engineer programmer.
 - 11.12.2023-15.12.2023 "10rd GENERAL SECONDARY EDUCATION SCHOOL" STATE INSTITUTION computer science and Applied mathematics teacher.
-- 04.09.2024-Present "ANDIJAN DISTRICT DEPARTMENT OF PRESCHOOL AND SCHOOL EDUCATION NO. 10" STATE INSTITUTION Computer Science Teacher.
+- 04.09.2024-Currently "ANDIJAN DISTRICT DEPARTMENT OF PRESCHOOL AND SCHOOL EDUCATION NO. 10" STATE INSTITUTION Computer Science Teacher.
 
 - :time_clock: In my free time, I solve problems on the Robocentec and LetCode platforms. I like to read fiction books and study various articles..
+
+- :man_student: 2020-2024 Andijan State University, Bachelor of Mathematics and Informatics.
+- 2024-Currently Master student.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amirov-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
